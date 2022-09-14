@@ -12,6 +12,7 @@ ul li {
 header div img{
     display: grid;
     max-width: 580px;
+    width: 7%;
     background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
     margin: 32px auto;
     padding: 4px;
