@@ -1,7 +1,3 @@
-<h1>NLW E-Sports</h1>
-
-<a href="https://arthursandim.github.io/nlw-esports/" target="__blank">Link do site upado no GitHub Pages </a>
-=======
 # NLW eSports
 
 ![preview](.github/preview.png)
