@@ -23,6 +23,3 @@ Clique [aqui](https://arthursandim.github.io/nlw-esports/) para acessar a versã
 - [Email](avg.sandim@gmail.com)
 
 - [Linkedin](https://www.linkedin.com/in/arthur-sandim-662b23104/)
-
-
->>>>>>> 684b838 (adicionando o readme)
